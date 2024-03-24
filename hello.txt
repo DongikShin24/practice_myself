@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 First line
 Second line
+<<<<<<< Updated upstream
 =======
 1 line
 2 line
 >>>>>>> caaf09e (First commit from new_branch1)
+=======
+3 line
+>>>>>>> Stashed changes
