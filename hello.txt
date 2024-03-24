@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+First line
+Second line
+=======
+1 line
+2 line
+>>>>>>> caaf09e (First commit from new_branch1)
